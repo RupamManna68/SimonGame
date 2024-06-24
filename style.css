@@ -1,0 +1,39 @@
+h1,h2{
+    text-align: center;
+}
+.box{
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    border-radius: 10%;
+    margin: 20px;
+}
+.upper,.lower{
+    display: flex;
+    justify-content: center; 
+}
+.main{
+    height: 700px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
+.darkgreen{
+    background-color: darkgreen;
+}
+.yellow{
+    background-color: yellow;
+}
+.flash{
+    background-color: white;
+}
+.userflash{
+    background-color: white;
+}
+
